@@ -1,0 +1,7 @@
+Coying 2 CSV files (AgentPerformance & AgentLogingReport)  to  /tmp/hive2 folder
+
+cp hive_class_2/AgentPerformance.csv /tmp/hive2
+cp hive_class_2/AgentLogingReport.csv /tmp/hive2
+
+
+
